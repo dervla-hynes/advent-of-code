@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f114301-cc7d-40b2-b466-6c66d7ecaddc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Umvq8WFONsz06kI7yaYBBhyE2M" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1-advent-of-code/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WireCrossCheckerTest.canFindLeastNumberOfStepsToCrossingPoint">
+    <configuration name="WireCrossCheckerTest.canCheckWhereWiresCross" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WireCrossCheckerTest" />
+      <option name="METHOD_NAME" value="canCheckWhereWiresCross" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WireCrossCheckerTest.canCreateWireOnePath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WireCrossCheckerTest" />
+      <option name="METHOD_NAME" value="canCreateWireOnePath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WireCrossCheckerTest.canCreateWireTwoPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WireCrossCheckerTest" />
+      <option name="METHOD_NAME" value="canCreateWireTwoPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WireCrossCheckerTest.canFindLeastNumberOfStepsToCrossingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WireCrossCheckerTest" />
+      <option name="METHOD_NAME" value="canFindLeastNumberOfStepsToCrossingPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WireCrossCheckerTest.canFindSmallestCrossingPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WireCrossCheckerTest" />
+      <option name="METHOD_NAME" value="canFindSmallestCrossingPoint" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WireCrossCheckerTest.canFindLeastNumberOfStepsToCrossingPoint" />
+        <item itemvalue="JUnit.WireCrossCheckerTest.canFindSmallestCrossingPoint" />
+        <item itemvalue="JUnit.WireCrossCheckerTest.canCheckWhereWiresCross" />
+        <item itemvalue="JUnit.WireCrossCheckerTest.canCreateWireTwoPath" />
+        <item itemvalue="JUnit.WireCrossCheckerTest.canCreateWireOnePath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f114301-cc7d-40b2-b466-6c66d7ecaddc" name="Default Changelist" comment="" />
+      <created>1575974772114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575974772114</updated>
+    </task>
+    <servers />
+  </component>
+</project>

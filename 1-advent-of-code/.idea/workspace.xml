@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9fc09dd-9a25-4da6-8802-5321bbd82490" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-advent-of-code.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlCdrRLpIBycck1IeTsEaABcU2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2-advent-of-code/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FuelCounterTest.canCalculateTheTotalFuel">
+    <configuration name="FuelCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FuelCounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuelCounterTest.canCalculateTheTotalFuel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FuelCounterTest" />
+      <option name="METHOD_NAME" value="canCalculateTheTotalFuel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuelCounterTest.canCalculateTheTotalMass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FuelCounterTest" />
+      <option name="METHOD_NAME" value="canCalculateTheTotalMass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuelCounterTest.canScanAllMassesFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FuelCounterTest" />
+      <option name="METHOD_NAME" value="canScanAllMassesFromFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModuleTest.canCalculateFuelNeededForModuleOfMass100756" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="1-advent-of-code" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ModuleTest" />
+      <option name="METHOD_NAME" value="canCalculateFuelNeededForModuleOfMass100756" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FuelCounterTest.canCalculateTheTotalFuel" />
+        <item itemvalue="JUnit.FuelCounterTest.canCalculateTheTotalMass" />
+        <item itemvalue="JUnit.FuelCounterTest" />
+        <item itemvalue="JUnit.FuelCounterTest.canScanAllMassesFromFile" />
+        <item itemvalue="JUnit.ModuleTest.canCalculateFuelNeededForModuleOfMass100756" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9fc09dd-9a25-4da6-8802-5321bbd82490" name="Default Changelist" comment="" />
+      <created>1575921884341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575921884341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="40" key="#Project_Structure" timestamp="1575922116647">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state x="240" y="40" key="#Project_Structure/0.23.1280.702@0.23.1280.702" timestamp="1575922116647" />
+    <state x="369" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575923385753">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state x="369" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.702@0.23.1280.702" timestamp="1575923385753" />
+    <state width="1218" height="208" key="GridCell.Tab.0.bottom" timestamp="1575931655681">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state width="1218" height="208" key="GridCell.Tab.0.bottom/0.23.1280.702@0.23.1280.702" timestamp="1575931655681" />
+    <state width="1218" height="208" key="GridCell.Tab.0.center" timestamp="1575931655681">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state width="1218" height="208" key="GridCell.Tab.0.center/0.23.1280.702@0.23.1280.702" timestamp="1575931655681" />
+    <state width="1218" height="208" key="GridCell.Tab.0.left" timestamp="1575931655680">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state width="1218" height="208" key="GridCell.Tab.0.left/0.23.1280.702@0.23.1280.702" timestamp="1575931655680" />
+    <state width="1218" height="208" key="GridCell.Tab.0.right" timestamp="1575931655681">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state width="1218" height="208" key="GridCell.Tab.0.right/0.23.1280.702@0.23.1280.702" timestamp="1575931655681" />
+    <state x="162" y="23" width="816" height="702" key="find.popup" timestamp="1575923368485">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state x="162" y="23" width="816" height="702" key="find.popup/0.23.1280.702@0.23.1280.702" timestamp="1575923368485" />
+    <state x="34" y="78" key="new project wizard" timestamp="1575925767785">
+      <screen x="0" y="23" width="1280" height="702" />
+    </state>
+    <state x="34" y="78" key="new project wizard/0.23.1280.702@0.23.1280.702" timestamp="1575925767785" />
+  </component>
+</project>
